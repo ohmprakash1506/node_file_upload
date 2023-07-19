@@ -1,2 +1,6 @@
 #avoid node module
 node_modules
+
+#avoid upload file
+
+uploaded_files
